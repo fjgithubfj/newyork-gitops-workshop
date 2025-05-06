@@ -5,7 +5,7 @@
 # To add another team, create a new file in the teams/ directory and copy and paste the contents from this file.
 # Update the secret in the new file, then create the corresponding secret in GitHub Actions secrets. 
 # Then add that secret to .github/workflows/workflow.yml as an env variable.
-# The secret name in the YAML file must match the secret name in GitHub Actions secrets.
+# The secret name in the YAML file must match the secret name in GitHub Actions secrets..
 
 name: New Hires
 policies:
