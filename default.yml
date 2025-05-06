@@ -19,9 +19,9 @@ org_settings:
   org_info:
     org_name: Freddy Awesome Org
   webhook_settings:
-    activity_webhook:
-    enable_activities_webhook: true
-    destination_url: https://example.com
+    activities_webhook:
+      enable_activities_webhook: true
+      destination_url: https://example.com
   server_settings:
     server_url: $FLEET_URL
   org_info:
